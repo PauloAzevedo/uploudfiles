@@ -7,13 +7,11 @@ A função da API é exclusivamente subir arquivos de qualquer tipo para o stora
 
 ![Exemplo de uso com o Insomnia](https://lirasistemas.com.br/site/files/04.png)
 
-![Doações](https://lirasistemas.com.br/site/files/donate.png)
-
 Segue arquivo de configuração do diretorio onde ficará salvo os arquivos:
 
 ![application.properties](https://lirasistemas.com.br/site/files/properties.png)
 
-
+[Doações](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=537WB5CTCQXXA&source=url)
 
 
 
