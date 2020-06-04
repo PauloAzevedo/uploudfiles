@@ -5,7 +5,13 @@ arquivos em uma API que tem somente esse papel.
 
 A função da API é exclusivamente subir arquivos de qualquer tipo para o storage.
 
+![Exemplo de uso com o Insomnia](https://lirasistemas.com.br/site/files/04.png)
 
+![Doações](https://lirasistemas.com.br/site/files/donate.png)
+
+Segue arquivo de configuração do diretorio onde ficará salvo os arquivos:
+
+![application.properties](https://lirasistemas.com.br/site/files/properties.png)
 
 
 
